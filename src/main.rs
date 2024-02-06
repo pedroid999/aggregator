@@ -1,4 +1,4 @@
-use aggregator::{NewsArticle, Summary, Tweet};
+use unique_aggregator::{NewsArticle, Summary, Tweet};
 
 fn main() {
     let tweet = Tweet {
