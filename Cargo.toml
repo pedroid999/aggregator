@@ -1,5 +1,5 @@
 [package]
-name = "aggregator"
+name = "unique_aggregator"
 version = "0.1.0"
 edition = "2021"
 description = "This is a description of my package."
